@@ -1,0 +1,6 @@
+10:57:26.147 found scenario at line: 32 - ^test removing and adding elements \/ attributes$
+10:57:26.276 skipping bootstrap configuration: could not find or read file: classpath:karate-config.js
+10:57:26.432 [print] <query baz="ban">
+  <foo>bar</foo>
+</query>
+

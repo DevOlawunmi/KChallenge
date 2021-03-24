@@ -1,0 +1,16 @@
+10:43:56.745 found scenario at line: 24 - ^add a new person named Jane Doe$
+10:43:56.883 skipping bootstrap configuration: could not find or read file: classpath:karate-config.js
+10:43:57.015 [print] <people>
+  <person>
+    <forename>John</forename>
+    <surname>Doe</surname>
+    <age>25</age>
+    <name>Jane Doe</name>
+  </person>
+  <person>
+    <forename>Joe</forename>
+    <surname>Bloggs</surname>
+    <age>35</age>
+  </person>
+</people>
+
